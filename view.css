@@ -1,0 +1,66 @@
+body {
+  display: block;
+  position: absolute;
+  height:100%;
+  width:100%
+}
+
+body::after {
+  content: "";
+  background: url("http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg");
+  opacity: 0.8;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+
+.header {
+  text-align: center;
+}
+
+.question {
+  text-align: center;
+}
+
+.choices {
+  text-align: center;
+}
+
+.choices button {
+  background-color: white;
+  display: inline;
+}
+
+#a {
+  color:  red;
+  border: 1px solid red;
+}
+
+#b {
+  color: blue;
+  border: 1px solid blue;
+}
+
+#c {
+  color: green;
+  border: 1px solid green;
+}
+
+#a:hover{
+  background-color: red;
+  color: white;
+}
+
+#b:hover{
+  background-color: blue;
+  color: white;
+}
+
+#c:hover{
+  background-color: green;
+  color: white;
+}

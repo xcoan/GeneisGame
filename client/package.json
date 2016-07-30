@@ -6,6 +6,8 @@
     "react-scripts": "0.2.0"
   },
   "dependencies": {
+    "aframe": "^0.2.0",
+    "aframe-draw-component": "^1.4.0",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
     "react-redux": "^4.4.5",

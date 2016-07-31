@@ -1,0 +1,115 @@
+{
+    "days": [
+        {
+            "head": "IN THE BEGINNING",
+            "questions": [
+                {
+                    "phrase": "You created the heaven and the earth. Now the earth was formless and empty, darkness was over the spirit of the deep, and the spirit of you was hovering over it.",
+                    "options": [{"text": "Fire"}, {"text": "Water"}, {"text": "Light"}],
+                    "response": "And You said \"let there be {0}.\" You saw the {0} was good."
+                }
+            ],
+            "foot": "And there was evening and there was morning."
+        },
+        {
+            "head": "THE SECOND DAY",
+            "questions": [
+                {
+                    "phrase": "You recognized the trinity of body, mind, and soul.",
+                    "options": [{"text": "Body"}, {"text": "Mind"}, {"text": "Soul"}],
+                    "response": "You saw that the {0} was good. And You separated the body from the mind and the mind from the soul."
+                },
+                {
+                    "phrase": "You saw the heavens and the earth and the hells.",
+                    "options": [{"text": "Heaven"}, {"text": "Earth"}, {"text": "Hell"}],
+                    "response": "And You separated the heavens from the earth, and the hells from them both, and it was good."
+                }
+            ],
+            "foot": "And there was evening and there was morning."
+        },
+        {
+            "head": "THE THIRD DAY",
+            "questions": [
+                {
+                    "phrase": "Then You said,",
+                    "options": [{"text": "Let the land burn hot and barren."},
+                                {"text": "Let the land produce vegetation that bear fruit with seed in it."},
+                                {"text": "Let the land be lush."}
+                               ],
+                    "response": ""
+                },
+                {
+                    "phrase": "And You said,",
+                    "options": [{"text": "Let the land teem with living creatures, and let the creatures be aggressive and territorial."},
+                                {"text": "Let the land teem with living creatures, and let the creatures be timid and mild."},
+                                {"text": "Let the land teem with living creatures, and let the creatures be wild and free."}
+                               ],
+                    "response": ""
+                },
+                {
+                    "phrase": "Then You said \"Let Us make mankind in Our image, so that they may rule over the creatures of the earth.\"",
+                    "options": [{"text": "Mankind is born of flame."},
+                                {"text": "Mankind is born of the ground."},
+                                {"text": "Mankind is born of music."}
+                               ],
+                    "response": ""
+                }
+            ],
+            "foot": "And there was evening and there was morning."
+        },
+        {
+            "head": "THE FOURTH DAY",
+            "questions": [
+                {
+                    "phrase": "Mankind wishes to know its creator.",
+                    "options": [{"text": "Show them Your power."},
+                                {"text": "Show them Your kindness."},
+                                {"text": "Test their faith."}
+                               ],
+                    "response": ""
+                },
+                {
+                    "phrase": "You give mankind the gift of knowledge.",
+                    "options": [{
+                                    "text": "Knowledge of War",
+                                    "outcome": ["You gift them the spear.", "You gift them the shield.", "You gift them the hero’s story."]
+                                },
+                                {
+                                    "text": "Knowledge of Abundance",
+                                    "outcome": ["You gift them forced labor.", "You gift them agriculture.", "You gift them ingenuity."]
+                                },
+                                {
+                                    "text": "Knowledge of Beauty",
+                                    "outcome": ["You gift them venationes.", "You gift them feast.", "You gift them art."]
+                                }
+                               ],
+                    "response": ""
+                },
+                {
+                    "phrase": "Man meets the creatures of the earth and looks to You for guidance.",
+                    "options": [{
+                                    "text": "Treat them with aggression",
+                                    "outcome": ["Man collects trophies in his dominance over the land.",
+                                                "Man appreciates the creature who feeds and clothes him.",
+                                                "Man presents You with sacrifice."]
+                                },
+                                {
+                                    "text": "Treat them with kindness",
+                                    "outcome": ["Man appreciates the creature who feeds and clothes him.",
+                                                "Man coexists with the creatures of the land.",
+                                                "Man worships the creatures around him."]
+                                },
+                                {
+                                    "text": "Treat them with ambivalence",
+                                    "outcome": ["Man exiles all creatures from his land.",
+                                                "Man leads all creatures from his land.",
+                                                "Man constructs a wall to separate himself from all creatures."]
+                                }
+                               ],
+                    "response": ""
+                }
+            ],
+            "foot": "And there was evening and there was morning."
+        }
+    ]
+}

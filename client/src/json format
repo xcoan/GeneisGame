@@ -1,0 +1,21 @@
+--Day content
+{
+    "head": "title phrase",
+    "questions": [],
+    "foot": "end of day"
+}
+
+--Question content
+{
+    "phrase": "question goes here",
+    "options": [{}, {}, {}],
+    "response": "ending response"
+}
+
+--Question options
+{
+    "text": "option that people pick",
+    "outcome": ["outcome1", "outcome2", "outcome3"]
+}
+or
+{"text": "option that people pick"}
